@@ -14,7 +14,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Screenshot
 
- ![Project Landing Page](Assets\Images\01-html-css-git-homework-demo.png)
+ ![Plot](Assets\Images\01-html-css-git-homework-demo.png)
 
 ## Link
 https://dfletch12.github.io/Horiseon-Scout-Rule-Project/
