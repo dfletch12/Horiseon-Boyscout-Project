@@ -17,7 +17,7 @@ If your README is long, add a table of contents to make it easy for users to fin
  ![Project Landing Page](Assets\Images\01-html-css-git-homework-demo.png)
 
 ## Link
-Link to deployed application
+https://dfletch12.github.io/Horiseon-Scout-Rule-Project/
 
 ## Credits
     Original Code from Vanderbilt University Coding bootcamp.
